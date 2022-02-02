@@ -1,8 +1,6 @@
 ## QB-Savezones rebuild for QB-Core
 This is a very awesome save/speedlimit zone mod, for [qb-core](https://github.com/qbcore-framework/qb-core) 
 
-I don't need to explain how it works, just follow the instructions in the config.lua file.
-
 
 ## How it works in game
 - This wil iqnore police.
