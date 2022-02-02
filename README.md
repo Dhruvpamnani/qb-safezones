@@ -3,8 +3,8 @@ This is a very awesome save/speedlimit zone mod, for [qb-core](https://github.co
 
 
 ## How it works in game
-- This wil iqnore police.
-- if a player is in a savezone every other player can't harm the player.
+- This will iqnore police.
+- if a player is in a savezone every other player can't harm this player.
 
 
 ## How to make a zone.
